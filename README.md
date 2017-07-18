@@ -22,3 +22,5 @@ This iterative function returns the sum of elements in a list. Eg. given the lis
 
 example:
 `python sum.py 1, 2`
+
+Moved to https://gitlab.com/steffbucag/python-scripts
